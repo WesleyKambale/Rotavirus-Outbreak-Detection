@@ -25,6 +25,14 @@ A Distribution Graph showing 'Density' ploted against 'Reported Cases' of Rotavi
 
 ![](/graphs/distributiongraph.png)
 
+A Bar Graph showing 'Number of Cases: Count' ploted against 'Seasons: Dry & Wet' of Rotavirus in 2018 for both male and female. 
+
+![](/graphs/seasonalgraph.png)
+
+A Bar Graph showing 'Number of Cases: Count' ploted against "Gender: Female 'F' & Male 'M'" of Rotavirus in 2019 for both male and female. 
+
+![](/graphs/gendergraph.png)
+
 ## Contributing
 Pull requests are welcome. Do not hesitate to fix any wrong data. But please open an issue first to discuss what you would like to change.
 
