@@ -13,6 +13,18 @@ It is aimed at predicting a Rota-virus outbreak and thus assist healthcare pract
 
 ## Demo
 
+A Scatter Graph showing 'Death Cases' ploted against 'Reported Cases' of Rotavirus in 2019 for both male and female. 
+
+![](/graphs/scattergraph.png)
+
+A Bar Graph showing 'Months' ploted against 'All Cases' of Rotavirus in 2018 for both male and female. 
+
+![](/graphs/bargraph.png)
+
+A Distribution Graph showing 'Density' ploted against 'Reported Cases' of Rotavirus in 2019 for both male and female. 
+
+![](/graphs/distributiongraph.png)
+
 ## Contributing
 Pull requests are welcome. Do not hesitate to fix any wrong data. But please open an issue first to discuss what you would like to change.
 
