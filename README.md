@@ -11,6 +11,8 @@ the values with trained data-sets.
 
 It is aimed at predicting a Rota-virus outbreak and thus assist healthcare practitioners to make intelligent clinical decisions which traditional decision support systems can not.
 
+The prediction is based on historical data from previous years trained to trigger an alert when reported or death cases exceed a certain seasonal limit.
+
 ## Demo
 
 A Scatter Graph showing 'Death Cases' ploted against 'Reported Cases' of Rotavirus in 2019 for both male and female. 
