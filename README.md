@@ -33,6 +33,18 @@ A Bar Graph showing 'Number of Cases: Count' ploted against "Gender: Female 'F' 
 
 ![](/graphs/gendergraph.png)
 
+Training of the Model using Linear Regression and Random Forest Classifier.
+
+![](/graphs/modeltraining.png)
+
+The ROC Curve of 'True Positive Rate' plotted against 'False Positive Rate'.
+
+![](/graphs/roccurve.png)
+
+The Accuracy Graph showing the 'Value vs Accuracy' of the testing and training data.
+
+![](/graphs/accuracy.png)
+
 ## Contributing
 Pull requests are welcome. Do not hesitate to fix any wrong data. But please open an issue first to discuss what you would like to change.
 
