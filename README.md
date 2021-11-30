@@ -4,14 +4,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/WesleyKambale/Rotavirus-Outbreak-Prediction)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/stargazers)
 
 
-# Rotavirus Outbreak Prediction Model
+# Rotavirus Outbreak Detection Model
 
-This is an Outbreak Prediction Model for Rotavirus. It retrieves hidden data from data-sets and compares
+This is an early detection model for Rotavirus. It retrieves hidden data from data-sets and compares
 the values with trained data-sets.
 
 It is aimed at predicting a Rota-virus outbreak and thus assist healthcare practitioners to make intelligent clinical decisions which traditional decision support systems can not.
 
-The prediction is based on historical data from previous years trained to trigger an alert when reported or death cases exceed a certain seasonal limit.
+The detection is based on historical data from previous years trained to trigger an alert when reported or death cases exceed a certain seasonal limit.
 
 ## Demo
 
