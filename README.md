@@ -52,7 +52,7 @@ Pull requests are welcome. Do not hesitate to fix any wrong data. But please ope
 
 ## Related Research Publications
 
-[Research Gate](https://www.researchgate.net/publication/356904603_Early_Detection_of_Rota-virus_Using_Modified_Historical_Limits_Method_A_Case_Study_of_Mbarara_Regional_Referral_Hospital)(Published on December 2021)
+[Research Gate](https://www.researchgate.net/publication/356904603_Early_Detection_of_Rota-virus_Using_Modified_Historical_Limits_Method_A_Case_Study_of_Mbarara_Regional_Referral_Hospital) (Published on December 2021)
 
 ## License
 [MIT License](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/blob/main/LICENSE)
