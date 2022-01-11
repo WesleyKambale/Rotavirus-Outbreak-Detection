@@ -1,7 +1,7 @@
-[![GitHub license](https://img.shields.io/github/license/WesleyKambale/Rotavirus-Outbreak-Prediction)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/WesleyKambale/Rotavirus-Outbreak-Prediction)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/issues)
-[![GitHub forks](https://img.shields.io/github/forks/WesleyKambale/Rotavirus-Outbreak-Prediction)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/network/)
-[![GitHub stars](https://img.shields.io/github/stars/WesleyKambale/Rotavirus-Outbreak-Prediction)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/stargazers)
+[![GitHub license](https://img.shields.io/github/license/WesleyKambale/Rotavirus-Outbreak-Detection)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/WesleyKambale/Rotavirus-Outbreak-Detection)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/issues)
+[![GitHub forks](https://img.shields.io/github/forks/WesleyKambale/Rotavirus-Outbreak-Detection)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/network/)
+[![GitHub stars](https://img.shields.io/github/stars/WesleyKambale/Rotavirus-Outbreak-Detection)](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/stargazers)
 
 
 # Rotavirus Outbreak Detection Model
@@ -51,4 +51,4 @@ The Accuracy Graph showing the 'Value vs Accuracy' of the testing and training d
 Pull requests are welcome. Do not hesitate to fix any wrong data. But please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT License](https://github.com/WesleyKambale/Rotavirus-Outbreak-Prediction/blob/main/LICENSE)
+[MIT License](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/blob/main/LICENSE)
