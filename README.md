@@ -9,7 +9,7 @@
 This is an early detection model for Rotavirus. It retrieves hidden data from data-sets and compares
 the values with trained data-sets.
 
-It is aimed at predicting a Rota-virus outbreak and thus assist healthcare practitioners to make intelligent clinical decisions which traditional decision support systems can not.
+It is aimed at detecting a Rota-virus outbreak and thus assist healthcare practitioners to make intelligent clinical decisions which traditional decision support systems can not.
 
 The detection is based on historical data from previous years trained to trigger an alert when reported or death cases exceed a certain seasonal limit.
 
@@ -49,6 +49,10 @@ The Accuracy Graph showing the 'Value vs Accuracy' of the testing and training d
 
 ## Contributing
 Pull requests are welcome. Do not hesitate to fix any wrong data. But please open an issue first to discuss what you would like to change.
+
+## Related Research Work
+
+[Research Gate]()
 
 ## License
 [MIT License](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection/blob/main/LICENSE)
